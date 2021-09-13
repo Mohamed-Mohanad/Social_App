@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287333521879",
+    "project_id": "hondaapp-7c948",
+    "storage_bucket": "hondaapp-7c948.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287333521879:android:17b1038548d54f3a65d392",
+        "android_client_info": {
+          "package_name": "com.example.honda_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287333521879-st66fqc46ipkqmk35384icvjb65ih4d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.honda_app",
+            "certificate_hash": "8bfc341747e311977879edd027289706304c67b2"
+          }
+        },
+        {
+          "client_id": "287333521879-4il2j77h4b39ikaqpc9b4a8mrr0qotii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaPdsI5Es02zjLVLmkDZqhuPL650rxcCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287333521879-4il2j77h4b39ikaqpc9b4a8mrr0qotii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
